@@ -1,4 +1,4 @@
-# faqsection
+# JS FAQ Section
 
 This project uses HTML, CSS, and a lil' JavaScript to create a simple FAQ Section. 
 
